@@ -1,0 +1,55 @@
+
+
+.section__one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.section__one__head{
+    font-size: 45px;
+}
+.section__one__role{
+    font-size: 30px;
+}
+button{
+    background-color: orangered;
+    color: black;
+    padding: 10px;
+    border: none;
+}
+.section__two{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.section__three{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}   
+.contact__form__input,.contact__form__textarea,.contact__form__submit{
+    margin-top: 10px;
+
+}
+.contact__form__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+
+}
+.contact__form__submit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: orangered;
+    color: black;
+    border: none;
+}
+.contact__form__textarea{
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+
+}

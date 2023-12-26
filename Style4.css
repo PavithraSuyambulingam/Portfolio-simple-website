@@ -1,0 +1,53 @@
+.section{
+margin: 20px;
+
+
+}
+.section__one{
+    
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section__one__head{
+    font-size: 45px;
+}
+.section__one__role{
+    font-size: 30px;
+}
+button{
+    background-color: orangered;
+    color: black;
+    padding: 10px;
+    border: none;
+}
+.section__three{
+    background-color: blueviolet;
+    color: black;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 20px;
+    height: 250px;
+    
+    vertical-align: top;
+    
+}
+.section__four{
+    background-color: orangered;
+    color: black;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 20px;
+    height: 250px;
+    
+    vertical-align: top;
+}
+.section__five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    
+    
+}
